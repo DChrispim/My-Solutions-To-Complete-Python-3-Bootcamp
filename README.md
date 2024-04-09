@@ -18,7 +18,7 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 | [08-01-Milestone Project 2 - Assignment](<08-01-Milestone Project 2 - Assignment.ipynb>)                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [08-02-Milestone Project 2 - Walkthrough Steps Workbook](<08-02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb>) | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [10-02-Homework](10-02-Homework.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [11-02-Homework](11-02-Homework.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| [11-02-Homework](11-02-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
 | [12-07-Exercise-Puzzle](12-07-Exercise-Puzzle.ipynb)                                                                     | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [12-08-Exercise-Solutions](12-08-Exercise-Solutions.ipynb)                                                               | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [13-01-Exercises](13-01-Exercises.ipynb)                                                                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
