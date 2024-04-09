@@ -4,28 +4,26 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 
 ## Current status
 
-| File                                                                                                                     | Status                                              |
-| ------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- |
-| [00-09-Assessment-Test](00-09-Assessment-Test.ipynb)                                                                     | ![Done](https://img.shields.io/badge/Done-green)    |
-| [02-07-Assessment-Test](02-07-Assessment-Test.ipynb)                                                                     | ![Done](https://img.shields.io/badge/Done-green)    |
-| [02-09-Challenge](02-09-Challenge.ipynb)                                                                                 | ![Done](https://img.shields.io/badge/Done-green)    |
-| [03-03-Practice-Exercises](03-03-Practice-Exercises.ipynb)                                                               | ![Done](https://img.shields.io/badge/Done-green)    |
-| [03-08-Homework](03-08-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [04-Milestone-Project-1](04-Milestone-Project-1.ipynb)                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [05-02-Homework](05-02-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [05-04-Challenge](05-04-Challenge.ipynb)                                                                                 | ![Done](https://img.shields.io/badge/Done-green)    |
-| [07-02-Homework](07-02-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [08-01-Milestone Project 2 - Assignment](<08-01-Milestone Project 2 - Assignment.ipynb>)                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [08-02-Milestone Project 2 - Walkthrough Steps Workbook](<08-02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb>) | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [10-02-Homework](10-02-Homework.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [11-02-Homework](11-02-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [12-07-Exercise-Puzzle](12-07-Exercise-Puzzle.ipynb)                                                                     | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [12-08-Exercise-Solutions](12-08-Exercise-Solutions.ipynb)                                                               | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [13-01-Exercises](13-01-Exercises.ipynb)                                                                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [14-01-Exercise](14-01-Exercise.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [15-02-Puzzle](15-02-Puzzle.ipynb)                                                                                       | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [16-02-Exercise-Ideas](16-02-Exercise-Ideas.ipynb)                                                                       | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [17-06-Test](17-06-Test.ipynb)                                                                                           | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| File                                                         | Status                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------------- |
+| [00-09-Assessment-Test](00-09-Assessment-Test.ipynb)         | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [02-07-Assessment-Test](02-07-Assessment-Test.ipynb)         | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [02-09-Challenge](02-09-Challenge.ipynb)                     | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [03-03-Practice-Exercises](03-03-Practice-Exercises.ipynb)   | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [03-08-Homework](03-08-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [04-Milestone-Project-1](04-Milestone-Project-1.ipynb)       | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [05-02-Homework](05-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [05-04-Challenge](05-04-Challenge.ipynb)                     | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [07-02-Homework](07-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [08-01-Milestone-Project-2](08-01-Milestone-Project-2.ipynb) | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [10-02-Homework](10-02-Homework.ipynb)                       | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [11-02-Homework](11-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
+| [12-07-Exercise-Puzzle](12-07-Exercise-Puzzle.ipynb)         | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [13-01-Exercises](13-01-Exercises.ipynb)                     | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [14-01-Exercise](14-01-Exercise.ipynb)                       | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [15-02-Puzzle](15-02-Puzzle.ipynb)                           | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [16-02-Exercise-Ideas](16-02-Exercise-Ideas.ipynb)           | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [17-06-Test](17-06-Test.ipynb)                               | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
 
 ## About me
 
