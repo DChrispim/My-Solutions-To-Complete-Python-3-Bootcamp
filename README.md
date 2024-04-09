@@ -11,9 +11,9 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 | [02-09-Challenge](02-09-Challenge.ipynb)                                                                                 | ![Done](https://img.shields.io/badge/Done-green)    |
 | [03-03-Practice-Exercises](03-03-Practice-Exercises.ipynb)                                                               | ![Done](https://img.shields.io/badge/Done-green)    |
 | [03-08-Homework](03-08-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
-| [04-Milestone Project 1](<04-Milestone Project 1.ipynb>)                                                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [05-02-Homework](05-02-Homework.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
-| [05-04-Challenge](05-04-Challenge.ipynb)                                                                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
+| [04-Milestone-Project-1](04-Milestone-Project-1.ipynb)                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
+| [05-02-Homework](05-02-Homework.ipynb)                                                                                   | ![Done](https://img.shields.io/badge/Done-green)    |
+| [05-04-Challenge](05-04-Challenge.ipynb)                                                                                 | ![Done](https://img.shields.io/badge/Done-green) |
 | [07-02-Homework](07-02-Homework.ipynb)                                                                                   | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [08-01-Milestone Project 2 - Assignment](<08-01-Milestone Project 2 - Assignment.ipynb>)                                 | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
 | [08-02-Milestone Project 2 - Walkthrough Steps Workbook](<08-02-Milestone Project 2 - Walkthrough Steps Workbook.ipynb>) | ![To-Do](https://img.shields.io/badge/To%20Do-blue) |
