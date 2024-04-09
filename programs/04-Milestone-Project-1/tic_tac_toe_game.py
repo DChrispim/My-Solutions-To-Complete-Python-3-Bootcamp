@@ -62,7 +62,6 @@ def player_input():
         choice_X_or_O = input("Player 1, choose X or O:").upper()
 
         if choice_X_or_O not in ['O', 'X']:
-            print('\n'*100)
             print("Sorry, Player 1 need to choose between O and X.")
 
     player1 = choice_X_or_O
@@ -105,7 +104,7 @@ def choose_first():
 
 
 def space_check(board, position):
-    return board[position] == " "
+    return str(board[position]).isnumeric()
 
 
 def full_board_check(board):
@@ -137,7 +136,8 @@ if __name__ == '__main__':
         # Play the game
 
         # Set initial parameters
-        the_board = [" "]*10
+        # the_board = [" "]*10
+        the_board = [i for i in range(0,10)]
         player1_marker, player2_marker = player_input()
 
         turn = choose_first()
