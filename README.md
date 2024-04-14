@@ -20,7 +20,7 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 | [11-02-Homework](11-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [12-07-Exercise-Puzzle](12-07-Exercise-Puzzle.ipynb)         | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [13-01-Exercises](13-01-Exercises.ipynb)                     | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
-| [14-01-Exercise](14-01-Exercise.ipynb)                       | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [14-01-Exercise](14-01-Exercise.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [15-02-Puzzle](15-02-Puzzle.ipynb)                           | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
 | [16-02-Exercise-Ideas](16-02-Exercise-Ideas.ipynb)           | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
 | [17-06-Test](17-06-Test.ipynb)                               | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
