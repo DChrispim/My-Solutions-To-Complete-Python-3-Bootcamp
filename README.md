@@ -1,8 +1,10 @@
 # Welcome to my Solutions to Complete-Python-3-Bootcamp
 
-Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this repository is dedicated to my solutions of the proposed code problems of the course [Complete Python 3 Bootcamp Course - Udemy](https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB) (the repository is [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)).
+Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this repository is dedicated to my solutions of the proposed code problems of the course [Complete Python 3 Bootcamp Course - Udemy](https://www.udemy.com/complete-python-bootcamp/?couponCode=COMPLETE_GITHUB) (the repository is [Complete-Python-3-Bootcamp](https://github.com/Pierian-Data/Complete-Python-3-Bootcamp)). Note that some proposed problems are complex/extensive and therefore they have been moved to their own repositories.
 
-## Current status
+## Proposed problems
+
+### On this repository
 
 | File                                                         | Status                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------------- |
@@ -16,14 +18,20 @@ Hello visitor! I am [Breno D. Chrispim](https://github.com/DChrispim) and this r
 | [05-04-Challenge](05-04-Challenge.ipynb)                     | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [07-02-Homework](07-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [08-01-Milestone-Project-2](08-01-Milestone-Project-2.ipynb) | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
-| [10-02-Homework](10-02-Homework.ipynb)                       | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
 | [11-02-Homework](11-02-Homework.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [12-07-Exercise-Puzzle](12-07-Exercise-Puzzle.ipynb)         | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [13-01-Exercises](13-01-Exercises.ipynb)                     | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [14-01-Exercise](14-01-Exercise.ipynb)                       | ![Done](https://img.shields.io/badge/Done-green)                    |
 | [15-02-Puzzle](15-02-Puzzle.ipynb)                           | ![Done](https://img.shields.io/badge/Done-green)                    |
-| [16-02-Exercise-Ideas](16-02-Exercise-Ideas.ipynb)           | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
-| [17-06-Test](17-06-Test.ipynb)                               | ![Need-revision](https://img.shields.io/badge/Need%20Revision-blue) |
+| [17-06-Test](17-06-Test.ipynb)                               | ![Done](https://img.shields.io/badge/Done-green)                    |
+
+### On other repositories
+
+| Section | Link to repository                                                                 | Proposed problem explanation                                                                                                                      |
+| ------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 10-02   | ![ToDo](https://img.shields.io/badge/To%20Do-red)                                  | Working with framework. Develop an implementation of one (or both) [Flask](http://flask.pocoo.org/) and [Django](https://www.djangoproject.com/). |
+| 16-02   | ![ToDo](https://img.shields.io/badge/To%20Do-red)                                  | Working with sending/receiving emails with Python. Develop a program that sends/receives emails with Python.                                      |
+| 18      | [My-coding-exercises-repository](https://github.com/DChrispim/my-coding-exercises) | Milestone-Project-3. Develop various program from the list of ideas with Python.                                                                  |
 
 ## About me
 
